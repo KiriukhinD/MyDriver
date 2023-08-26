@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProjectDriver", "MyProjectDriver\MyProjectDriver.csproj", "{0F45054D-612A-43AD-90E1-02B6B9F22059}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F45054D-612A-43AD-90E1-02B6B9F22059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F45054D-612A-43AD-90E1-02B6B9F22059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F45054D-612A-43AD-90E1-02B6B9F22059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F45054D-612A-43AD-90E1-02B6B9F22059}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
